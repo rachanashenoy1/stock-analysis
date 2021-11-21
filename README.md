@@ -5,9 +5,9 @@
 ### Results
 *The overall return on stocks in 2017 was much higher than the returns in 2018. 2017 was a more profitable year as can be seen below. 
 *Returns from 2017
-![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/2017%20Stock%20Performance.png)---
+![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/2017%20Stock%20Performance.png)
 *Returns from 2018
-![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/2018%20Stock%20Performance.png)---
+![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/2018%20Stock%20Performance.png)
 ### Speed of the Code
 After refactoring the code, the script ran faster as can be seen below. ---
 *Run Time before Refactoring
