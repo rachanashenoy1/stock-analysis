@@ -11,10 +11,12 @@
 ![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/2018%20Stock%20Performance.png)
 ---
 ### Speed of the Code
-After refactoring the code, the script ran faster as can be seen below. ---
-*Run Time before Refactoring
-![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/Pre-Refactor%20Code.png)---
-*Run Time after Refactoring
-![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/VBA_Challenge_2017.png)---
+After refactoring the code, the script ran faster as can be seen below. 
+#### Run Time before Refactoring
+![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/Pre-Refactor%20Code.png)
+---
+#### Run Time after Refactoring
+![image_name](https://github.com/rachanashenoy1/stock-analysis/blob/main/VBA_Challenge_2017.png)
+---
 ### Summary
 Refactoring the code makes it easier to read and reduces the overall time taken to run the code. This would be especially useful in situations where we have to work with large amounts of data. 
